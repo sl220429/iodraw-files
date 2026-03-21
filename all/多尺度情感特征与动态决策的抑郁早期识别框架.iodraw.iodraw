@@ -167,7 +167,7 @@
         <mxCell id="NHCM8v26kYoMHfcOtJCp-61" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;RoBERTa&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b24834;" parent="1" vertex="1">
           <mxGeometry x="535" y="370" width="280" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NHCM8v26kYoMHfcOtJCp-62" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;BiLSTM&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#248144;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="NHCM8v26kYoMHfcOtJCp-62" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;BiGRU&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#248144;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="535" y="590" width="280" height="40" as="geometry" />
         </mxCell>
         <mxCell id="NHCM8v26kYoMHfcOtJCp-63" value="&lt;font color=&quot;#212529&quot; style=&quot;font-size: 18px;&quot;&gt;RL Policy Network&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d0e0ed;dashed=1;fontStyle=0" parent="1" vertex="1">
