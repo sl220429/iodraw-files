@@ -8,7 +8,7 @@
           <mxGeometry x="200" y="200" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-2" value="本文主要研究内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;container=0;" vertex="1" parent="1">
-          <mxGeometry x="205" y="200" width="30" height="120" as="geometry" />
+          <mxGeometry x="205" y="200" width="15" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
