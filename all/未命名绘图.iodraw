@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005867;strokeColor=#9673a6;" vertex="1" parent="1">
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-5" value="&lt;span style=&quot;color: rgb(218, 216, 216); font-weight: 700;&quot;&gt;本&lt;br&gt;文&lt;br&gt;主&lt;br&gt;要&lt;br&gt;研&lt;br&gt;究&lt;br&gt;内&lt;br&gt;容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005867;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-2" value="&lt;font color=&quot;#dad8d8&quot;&gt;本文主要研究内容&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;container=0;fontFamily=Helvetica;fontStyle=1;fillColor=#005867;" vertex="1" parent="1">
