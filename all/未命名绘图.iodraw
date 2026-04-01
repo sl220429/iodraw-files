@@ -52,13 +52,13 @@
         <mxCell id="FqIEmQhDTjpyUqbppjs7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-16" target="FqIEmQhDTjpyUqbppjs7-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-16" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#54798c;" vertex="1" parent="1">
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-16" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#54798c;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-17" target="FqIEmQhDTjpyUqbppjs7-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-17" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#54798c;" vertex="1" parent="1">
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-17" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#54798c;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-18" target="FqIEmQhDTjpyUqbppjs7-28">
