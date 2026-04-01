@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-5" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;本&lt;br&gt;文&lt;br&gt;主&lt;br&gt;要&lt;br&gt;研&lt;br&gt;究&lt;br&gt;内&lt;br&gt;容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005867;strokeColor=#9673a6;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-5" value="&lt;span style=&quot;font-weight: 700;&quot;&gt;本&lt;br&gt;文&lt;br&gt;主&lt;br&gt;要&lt;br&gt;研&lt;br&gt;究&lt;br&gt;内&lt;br&gt;容&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#005867;strokeColor=none;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="80" y="120" width="40" height="120" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-5">
@@ -52,19 +52,19 @@
         <mxCell id="FqIEmQhDTjpyUqbppjs7-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-16" target="FqIEmQhDTjpyUqbppjs7-29">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-16" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#54798c;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-16" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#54798c;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="260" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-17" target="FqIEmQhDTjpyUqbppjs7-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-17" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#54798c;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-17" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#54798c;fontColor=#ffffff;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="200" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-18" target="FqIEmQhDTjpyUqbppjs7-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-18" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#53778e;fontColor=#FFFFFF;" vertex="1" parent="1">
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-18" value="解决方案" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fillColor=#53778e;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="120" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-19" target="FqIEmQhDTjpyUqbppjs7-27">
@@ -73,7 +73,7 @@
         <mxCell id="FqIEmQhDTjpyUqbppjs7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-19" target="FqIEmQhDTjpyUqbppjs7-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-19" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fontColor=#ffffff;fillColor=#53788b;" vertex="1" parent="1">
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-19" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fontColor=#ffffff;fillColor=#53788b;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-26" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;上下文建模困难、标签稀疏及语义锚点退化问题&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;fontFamily=Helvetica;fillColor=#dcf4da;" vertex="1" parent="1">
