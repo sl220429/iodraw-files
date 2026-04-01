@@ -73,7 +73,7 @@
         <mxCell id="FqIEmQhDTjpyUqbppjs7-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-19" target="FqIEmQhDTjpyUqbppjs7-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-19" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fontColor=#ffffff;fillColor=#53788b;strokeColor=default;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-19" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;fontColor=#ffffff;fillColor=#53788b;strokeColor=#557588;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="400" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-26" value="&lt;span style=&quot;font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;上下文建模困难、标签稀疏及语义锚点退化问题&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontColor=#000000;fontFamily=Helvetica;fillColor=#dcf4da;strokeColor=#86B097;" vertex="1" parent="1">
