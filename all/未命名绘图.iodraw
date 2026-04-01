@@ -4,14 +4,53 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-4" value="" style="group;fillColor=default;container=0;" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="130" width="40" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="FqIEmQhDTjpyUqbppjs7-1" value="" style="rounded=1;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="130" width="40" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="FqIEmQhDTjpyUqbppjs7-2" value="本文主要研究内容" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;textDirection=vertical-rl;container=0;" vertex="1" parent="1">
-          <mxGeometry x="225" y="130" width="26" height="120" as="geometry" />
+          <mxGeometry x="87" width="26" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-5" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#739c50;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="80" y="120" width="40" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-7" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="410" y="260" as="sourcePoint" />
+            <mxPoint x="200" y="80" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="180" />
+              <mxPoint x="160" y="80" />
+              <mxPoint x="200" y="80" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="130" y="190" as="sourcePoint" />
+            <mxPoint x="200" y="280" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="160" y="180" />
+              <mxPoint x="160" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="FqIEmQhDTjpyUqbppjs7-9" target="FqIEmQhDTjpyUqbppjs7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-9" value="&lt;span style=&quot;font-family: 宋体; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;多尺度情感特征融合与动态决策的抑郁早期识别框架（DepMDF）&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-10" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="200" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-11" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="60" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="240" as="sourcePoint" />
+            <mxPoint x="280" y="260.0000000000001" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FqIEmQhDTjpyUqbppjs7-15" value="&lt;span style=&quot;font-family: 宋体;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;基于症状感知对比学习的细粒度抑郁症状检测模型（DepSCL）&lt;/font&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="200" y="260" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
