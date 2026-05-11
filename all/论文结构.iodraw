@@ -139,8 +139,8 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-19" value="DepMDF抑郁早期识别框架" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="309.75" y="813" width="178.5" height="59" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-20" value="阶段Ⅱ：抑郁症状检测（关注细粒度）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="293" y="787" width="222" height="26" as="geometry" />
+        <mxCell id="2FTGRr56PReN2kRlofn3-20" value="阶段Ⅱ：抑郁症状检测（关注细粒度症状识别）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="269" y="787" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-21" value="难以兼顾识别准确率与早期检测能力问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="943" width="120" height="60" as="geometry" />
