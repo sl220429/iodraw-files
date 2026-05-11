@@ -229,7 +229,7 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-83" value="解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="423.87" y="1717" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-84" value="细粒度检测：临床症状（BDI-II）抽取与排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-84" value="细粒度检测：临床症状（BDI-II）抽取与排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#adc79a;" vertex="1" parent="1">
           <mxGeometry x="250.69" y="1867" width="306.63" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-86" value="高风险预警触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
