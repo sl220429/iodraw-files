@@ -140,7 +140,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-19" value="DepSCL细粒度检测模型" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="309.75" y="813" width="178.5" height="59" as="geometry" />
+          <mxGeometry x="309.75" y="822" width="178.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-20" value="阶段Ⅱ：抑郁症状检测（关注细粒度症状识别）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="239" y="786" width="333" height="30" as="geometry" />
