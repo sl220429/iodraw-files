@@ -121,8 +121,8 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-14" value="解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="426.5" y="548" width="66" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-15" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="336" y="701" width="120" height="37" as="geometry" />
+        <mxCell id="2FTGRr56PReN2kRlofn3-15" value="粗粒度识别预警：是否存在抑郁倾向" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="284" y="700" width="244" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
