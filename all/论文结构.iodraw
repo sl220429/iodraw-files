@@ -143,7 +143,7 @@
           <mxGeometry x="269" y="787" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-21" value="上下文建模困难、标签稀疏及语义锚点退化问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="220" y="943" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="943" width="134" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-22" value="构建多尺度情感特征融合和动态决策机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="449" y="943" width="120" height="60" as="geometry" />
