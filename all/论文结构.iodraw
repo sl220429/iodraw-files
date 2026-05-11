@@ -110,7 +110,7 @@
           <mxGeometry x="265" y="459" width="277" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-7" value="难以兼顾识别准确率与早期检测能力问题" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="219.5" y="589" width="120" height="60" as="geometry" />
+          <mxGeometry x="220" y="615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-8" value="构建多尺度情感特征融合和动态决策机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="458.5" y="589" width="120" height="60" as="geometry" />
