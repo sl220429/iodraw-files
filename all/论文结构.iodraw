@@ -202,9 +202,6 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-73" value="&lt;b&gt;粗粒度早期识别预警：是否存在抑郁倾向&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontColor=#000000;fillColor=#bfd5ec;" vertex="1" parent="1">
           <mxGeometry x="267" y="1516" width="280" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=15;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-75" target="2FTGRr56PReN2kRlofn3-85">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;dashed=1;fillColor=#dfedd4;" vertex="1" parent="1">
           <mxGeometry x="90" y="1622" width="631" height="295" as="geometry" />
         </mxCell>
@@ -234,9 +231,6 @@
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-84" value="细粒度检测：临床症状（BDI-II）抽取与排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="250.69" y="1867" width="306.63" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-85" value="面向临床的综合辅助评估报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="345.5" y="1950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-86" value="高风险预警触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="403.37" y="1578" width="123" height="30" as="geometry" />
