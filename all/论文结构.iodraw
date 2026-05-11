@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
   <diagram name="第 1 页" id="BBhYSOklOEnh7yMZ1fBl">
-    <mxGraphModel dx="1794" dy="813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1554" dy="813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="FqIEmQhDTjpyUqbppjs7-39" value="筛查-辅助诊断" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fontFamily=Helvetica;fontStyle=1;strokeColor=none;fillColor=#175655;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="240" y="150" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-2" target="2FTGRr56PReN2kRlofn3-3">
+        <mxCell id="2FTGRr56PReN2kRlofn3-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-2" target="2FTGRr56PReN2kRlofn3-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-2" value="用户社交帖文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
