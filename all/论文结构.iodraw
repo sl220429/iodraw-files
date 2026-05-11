@@ -163,8 +163,8 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-28" value="面向临床的综合辅助评估报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="339" y="1106" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-30" value="高风险预警触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="366" y="747" width="102" height="26" as="geometry" />
+        <mxCell id="2FTGRr56PReN2kRlofn3-30" value="高风险预警触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="400" y="750" width="123" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
