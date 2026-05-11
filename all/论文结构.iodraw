@@ -172,7 +172,7 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=15;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-64" target="2FTGRr56PReN2kRlofn3-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#ddeaf3;" vertex="1" parent="1">
           <mxGeometry x="90" y="1267" width="633" height="295" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-67" target="2FTGRr56PReN2kRlofn3-69">
@@ -226,8 +226,8 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-81" value="症状感知细粒度特征提取与知识蒸馏框架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="424" y="1785" width="214" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-82" value="解决问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="299.87" y="1717" width="78" height="30" as="geometry" />
+        <mxCell id="2FTGRr56PReN2kRlofn3-82" value="面临问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="288" y="1724" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-83" value="解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="423.87" y="1717" width="78" height="30" as="geometry" />
