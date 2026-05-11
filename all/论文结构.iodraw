@@ -220,10 +220,10 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-79" value="阶段Ⅱ：抑郁症状检测（关注细粒度症状识别）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="192.37" y="1627" width="438" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-80" value="上下文建模困难、标签稀疏及语义锚点退化问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-80" value="上下文建模困难、标签稀疏及语义锚点退化问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#adc79a;" vertex="1" parent="1">
           <mxGeometry x="165" y="1785" width="185.37" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-81" value="症状感知细粒度特征提取与知识蒸馏框架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-81" value="症状感知细粒度特征提取与知识蒸馏框架" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="424" y="1785" width="214" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-82" value="面临问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
@@ -232,7 +232,7 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-83" value="解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="423.87" y="1717" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-84" value="细粒度检测：临床症状（BDI-II）抽取与排序" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-84" value="细粒度检测：临床症状（BDI-II）抽取与排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="254.37" y="1865" width="296" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-85" value="面向临床的综合辅助评估报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
