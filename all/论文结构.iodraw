@@ -92,7 +92,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-2" value="用户社交帖文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="339" y="362" width="120" height="60" as="geometry" />
+          <mxGeometry x="339" y="364" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FTGRr56PReN2kRlofn3-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-3" target="2FTGRr56PReN2kRlofn3-16">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="196.25" y="452" width="405.5" height="295" as="geometry" />
