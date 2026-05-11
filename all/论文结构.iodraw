@@ -112,7 +112,7 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-8" value="构建多尺度情感特征融合和动态决策机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="459" y="621" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-10" value="&lt;span style=&quot;white-space: normal;&quot;&gt;解决问题&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-10" value="&lt;span style=&quot;white-space: normal;&quot;&gt;解决问题&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;textDirection=rtl;" vertex="1" parent="1">
           <mxGeometry x="686" y="593" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
