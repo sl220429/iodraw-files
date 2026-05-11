@@ -157,8 +157,8 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-25" value="粗粒度检测：有哪些抑郁症状" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="284" y="1028" width="244" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-28" value="用户社交帖文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="372.5" y="1180" width="120" height="60" as="geometry" />
+        <mxCell id="2FTGRr56PReN2kRlofn3-28" value="面向临床的综合辅助评估报告" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="339" y="1106" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
