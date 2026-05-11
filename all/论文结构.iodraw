@@ -199,7 +199,7 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-72" value="解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="423.87" y="1370" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-73" value="粗粒度识别预警：是否存在抑郁倾向" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-73" value="粗粒度识别预警：是否存在抑郁倾向" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fontColor=#537493;" vertex="1" parent="1">
           <mxGeometry x="287.37" y="1515" width="244" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;dashed=1;fontSize=15;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-75" target="2FTGRr56PReN2kRlofn3-85">
