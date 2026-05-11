@@ -107,10 +107,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-4" value="DepMDF抑郁早期识别框架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="309.75" y="485" width="178.5" height="59" as="geometry" />
+          <mxGeometry x="309.75" y="498" width="178.5" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-6" value="阶段Ⅰ：广谱筛查与早期识别预警（关注准确率与时效性）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="200" y="458" width="408" height="30" as="geometry" />
+          <mxGeometry x="200" y="464" width="408" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-7" value="难以兼顾识别准确率与早期检测能力问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="220" y="615" width="120" height="60" as="geometry" />
@@ -119,10 +119,10 @@
           <mxGeometry x="449" y="615" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-12" value="解决问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="296.5" y="547" width="78" height="30" as="geometry" />
+          <mxGeometry x="296.5" y="555" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-14" value="解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="420.5" y="547" width="78" height="30" as="geometry" />
+          <mxGeometry x="420.5" y="555" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-15" value="粗粒度识别预警：是否存在抑郁倾向" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="284" y="700" width="244" height="37" as="geometry" />
