@@ -158,7 +158,7 @@
           <mxGeometry x="420.5" y="869" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-25" value="细粒度检测：临床症状（BDI-II）抽取与排序" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="284" y="1022" width="244" height="37" as="geometry" />
+          <mxGeometry x="251" y="1017" width="296" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-28" value="面向临床的综合辅助评估报告" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="339" y="1100" width="120" height="60" as="geometry" />
