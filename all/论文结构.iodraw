@@ -181,13 +181,13 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-67" target="2FTGRr56PReN2kRlofn3-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-67" value="DepMDF抑郁早期识别框架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-67" value="DepMDF抑郁早期识别框架" style="rounded=0;whiteSpace=wrap;html=1;fontSize=18;fillColor=#a3bacc;" vertex="1" parent="1">
           <mxGeometry x="295" y="1313" width="224" height="46" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-68" value="阶段Ⅰ：广谱筛查与早期识别预警（关注准确率与时效性）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="148" y="1274" width="538" height="36" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-69" value="难以兼顾识别准确率与早期检测能力问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-69" value="难以兼顾识别准确率与早期检测能力问题" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;fillColor=#a3bacc;" vertex="1" parent="1">
           <mxGeometry x="156" y="1430" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-70" value="构建多尺度情感特征融合和动态决策机制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" vertex="1" parent="1">
