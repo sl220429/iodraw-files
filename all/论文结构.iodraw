@@ -203,7 +203,7 @@
           <mxGeometry x="267" y="1516" width="280" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-75" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;dashed=1;fillColor=#dfedd4;" vertex="1" parent="1">
-          <mxGeometry x="90" y="1622" width="631" height="295" as="geometry" />
+          <mxGeometry x="90" y="1619" width="631" height="295" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-78" target="2FTGRr56PReN2kRlofn3-80">
           <mxGeometry relative="1" as="geometry" />
@@ -212,25 +212,25 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-78" value="DepSCL细粒度检测模型" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#adc79a;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="293" y="1664" width="213" height="50" as="geometry" />
+          <mxGeometry x="293" y="1661" width="213" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-79" value="阶段Ⅱ：抑郁症状检测（关注细粒度症状识别）" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="192.37" y="1627" width="438" height="36" as="geometry" />
+          <mxGeometry x="192.37" y="1624" width="438" height="36" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-80" value="上下文建模困难、标签稀疏及语义锚点退化问题" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#adc79a;" vertex="1" parent="1">
-          <mxGeometry x="165" y="1785" width="185.37" height="60" as="geometry" />
+          <mxGeometry x="165" y="1782" width="185.37" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-81" value="症状感知细粒度特征提取与知识蒸馏框架" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fillColor=#adc79a;" vertex="1" parent="1">
-          <mxGeometry x="424" y="1785" width="214" height="60" as="geometry" />
+          <mxGeometry x="424" y="1782" width="214" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-82" value="面临问题" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="288" y="1724" width="78" height="30" as="geometry" />
+          <mxGeometry x="288" y="1721" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-83" value="解决方案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
-          <mxGeometry x="423.87" y="1717" width="78" height="30" as="geometry" />
+          <mxGeometry x="423.87" y="1714" width="78" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-84" value="细粒度检测：临床症状（BDI-II）抽取与排序" style="rounded=1;whiteSpace=wrap;html=1;fontSize=15;fontStyle=1;fillColor=#adc79a;" vertex="1" parent="1">
-          <mxGeometry x="250.69" y="1867" width="306.63" height="37" as="geometry" />
+          <mxGeometry x="250.69" y="1864" width="306.63" height="37" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-86" value="高风险预警触发" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="403.37" y="1578" width="123" height="30" as="geometry" />
