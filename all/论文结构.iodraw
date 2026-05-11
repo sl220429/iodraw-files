@@ -94,7 +94,7 @@
         <mxCell id="2FTGRr56PReN2kRlofn3-2" value="用户社交帖文" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="339" y="362" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="2FTGRr56PReN2kRlofn3-3" value="解决问题" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2FTGRr56PReN2kRlofn3-3" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="196.25" y="452" width="405.5" height="295" as="geometry" />
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2FTGRr56PReN2kRlofn3-4" target="2FTGRr56PReN2kRlofn3-7">
@@ -111,6 +111,9 @@
         </mxCell>
         <mxCell id="2FTGRr56PReN2kRlofn3-8" value="构建多尺度情感特征融合和动态决策机制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="459" y="621" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2FTGRr56PReN2kRlofn3-10" value="&lt;span style=&quot;white-space: normal;&quot;&gt;解决问题&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="686" y="593" width="66" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
